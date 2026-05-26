@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Rahul%20Koundal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 <h1 align="center">Hi 👋, I'm Rahul Koundal</h1>
 <h3 align="center">AI/ML Enthusiast | Full Stack Developer | Final Year CSE Student</h3>
 
