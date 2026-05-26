@@ -1,11 +1,10 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Rahul%20Koundal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20•%20Full%20Stack%20Developer&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Rahul%20Koundal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20•%20Learning%20By%20Building&descAlignY=58"/>
 </p>
 
-<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI%2FML+Developer;Full+Stack+Developer;Python+%7C+Java+%7C+JavaScript;Building+Real+World+Projects"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+Python+%26+Java;Exploring+AI%2FML;Building+Projects+While+Learning;Final+Year+CSE+Student"/>
 </p>
 
 ---
@@ -14,22 +13,11 @@
 
 <p align="center">
 
-🎓 Final Year B.Tech CSE Student  
-🤖 Passionate About AI/ML & Full Stack Development  
-🚀 Currently Building AI Image Authenticity Detection System  
-💻 Skilled in Python, Java, JavaScript & ML  
-🎯 Aspiring Software Engineer / AI Engineer  
-
-</p>
-
----
-
-<h2 align="center">🚀 Current Project</h2>
-
-<p align="center">
-
-🧠 Building an <b>AI Image Authenticity Detection System</b><br>
-using Deep Learning, TensorFlow & Computer Vision.
+🎓 Final Year B.Tech CSE Student <br>
+💻 Learning Python & Java through hands-on projects <br>
+🧠 Exploring AI/ML concepts while building real applications <br>
+🚀 Currently building an AI Image Authenticity Detection project <br>
+🌱 Focused on improving problem solving & development skills
 
 </p>
 
@@ -38,8 +26,10 @@ using Deep Learning, TensorFlow & Computer Vision.
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,html,css,mysql,git,github,tensorflow,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,git,github,tensorflow,vscode&theme=dark"/>
 </p>
+
+---
 
 ---
 
@@ -48,14 +38,6 @@ using Deep Learning, TensorFlow & Computer Vision.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkoundal29&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkoundal29&theme=tokyonight" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulkoundal29&theme=tokyonight" />
-</p>
-
----
 
 <h2 align="center">🔥 Featured Projects</h2>
 
