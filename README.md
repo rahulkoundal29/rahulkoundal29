@@ -41,9 +41,6 @@
 ### 🧠 AI Image Authenticity Detection
 AI-powered system to detect AI generated images.
 
-### 📰 Fake News Detection
-Machine learning model for fake news classification.
-
 ### 🏋️ Gym Calorie Predictor
 Predicts calorie needs for gym users using ML.
 
