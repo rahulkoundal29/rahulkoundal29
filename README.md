@@ -30,14 +30,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rahulkoundal29&show_icons=true&theme=tokyonight" />
-</p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulkoundal29&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkoundal29&theme=tokyonight" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=rahulkoundal29&theme=tokyonight"/>
 </p>
-
----
 
 ## 🔥 Top Projects
 
