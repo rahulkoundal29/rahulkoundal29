@@ -1,36 +1,41 @@
-<!-- Animated Header -->
+<!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Rahul%20Koundal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rahul%20Koundal&fontAlign=50&fontAlignY=40&fontSize=55&desc=AI/ML%20Developer%20|%20Full%20Stack%20Learner&descAlignY=60&animation=fadeIn"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Full+Stack+Developer;Python+%7C+Java+%7C+Web+Development;Building+Real+World+Projects;Open+Source+Learner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Full+Stack+Developer;Python+%7C+Java+%7C+Web+Development;Building+Real+World+Projects"/>
 </p>
 
 ---
 
-<h3 align="center">
-AI/ML Enthusiast | Full Stack Developer | Final Year CSE Student
-</h3>
+# 💫 About Me
+
+```python
+class RahulKoundal:
+
+    education = "Final Year B.Tech CSE"
+
+    skills = [
+        "Python",
+        "Java",
+        "JavaScript",
+        "Machine Learning",
+        "Web Development"
+    ]
+
+    current_focus = "AI Image Authenticity Detection"
+
+    goal = "Software Engineer / AI Engineer"
+```
 
 ---
 
-# 🚀 About Me
-
-- 🎓 Final Year B.Tech CSE Student
-- 🤖 Passionate about AI/ML & Full Stack Development
-- 🚀 Currently Building AI Image Authenticity Detection
-- 💻 Skilled in Python, Java, HTML, CSS, JavaScript
-- 🌱 Learning Deep Learning & Backend Development
-- 🎯 Aspiring Software Engineer / AI Engineer
-
----
-
-# 🛠️ Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mysql,git,github,tensorflow,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mysql,git,github,tensorflow,vscode&theme=dark" />
 </p>
 
 ---
@@ -39,50 +44,39 @@ AI/ML Enthusiast | Full Stack Developer | Final Year CSE Student
 
 <p align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulkoundal29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rahulkoundal29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-  <img height="180em" src="https://streak-stats.demolab.com?user=rahulkoundal29&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkoundal29&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 </p>
 
 ---
 
-# 💻 Most Used Languages
+# 🔥 Featured Projects
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkoundal29&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+### 🧠 AI Image Authenticity Detection
+AI-powered system to detect AI-generated images with confidence scores and metadata analysis.
 
----
+### 📰 Fake News Detection
+Machine learning model for detecting fake and real news articles.
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulkoundal29&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-# 🔥 Top Projects
-
-## 🧠 AI Image Authenticity Detection
-AI-powered system to detect AI generated images with confidence score and metadata analysis.
-
-## 🏋️ Gym Calorie Predictor
-ML-based calorie prediction system for gym users.
+### 🏋️ Gym Calorie Predictor
+Predicts calorie needs using machine learning.
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rahul-koundal-54069725a">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://www.linkedin.com/in/rahul-koundal-54069725a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rahulkoundal119@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -90,12 +84,12 @@ ML-based calorie prediction system for gym users.
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulkoundal29&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=rahulkoundal29&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
-<!-- Footer Wave -->
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 </p>
