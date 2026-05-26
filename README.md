@@ -17,7 +17,7 @@
 🎓 Final Year B.Tech CSE Student  
 🤖 Passionate About AI/ML & Full Stack Development  
 🚀 Currently Building AI Image Authenticity Detection System  
-💻 Skilled in Python, Java, JavaScript, React & ML  
+💻 Skilled in Python, Java, JavaScript & ML  
 🎯 Aspiring Software Engineer / AI Engineer  
 
 </p>
@@ -27,7 +27,7 @@
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,mysql,git,github,tensorflow,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,html,css,mysql,git,github,tensorflow,vscode&theme=dark"/>
 </p>
 
 ---
@@ -35,9 +35,13 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rahulkoundal29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkoundal29&theme=tokyonight" />
+</p>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkoundal29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkoundal29&theme=tokyonight" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulkoundal29&theme=tokyonight" />
 </p>
 
 ---
