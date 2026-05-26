@@ -46,11 +46,12 @@ class RahulKoundal:
 
 <p align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulkoundal29&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulkoundal29&show_icons=true&theme=radical&hide_border=true"/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkoundal29&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahulkoundal29&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
+
 ---
 
 # 🔥 Featured Projects
@@ -71,7 +72,7 @@ Predicts calorie needs using machine learning.
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="rahulkoundal119@gmail.com">
+<a href="mailto:rahulkoundal119@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
