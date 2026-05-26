@@ -24,8 +24,6 @@
 
 ---
 
----
-
 <h2 align="center">🚀 Current Project</h2>
 
 <p align="center">
