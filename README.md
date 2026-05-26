@@ -35,11 +35,9 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rahulkoundal29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahulkoundal29&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkoundal29&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkoundal29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 ---
@@ -51,7 +49,6 @@
 | Project | Description |
 |---|---|
 | 🧠 AI Image Authenticity Detection | Detects AI-generated images using Deep Learning |
-| 📰 Fake News Detection | ML-based fake news classification system |
 | 🏋️ Gym Calorie Predictor | Predicts calorie requirements using ML |
 
 </div>
