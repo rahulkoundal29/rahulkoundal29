@@ -40,25 +40,23 @@ class RahulKoundal:
 
 ---
 
+
+
 # 📊 GitHub Stats
 
 <p align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulkoundal29&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rahulkoundal29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkoundal29&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkoundal29&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800"/>
 
 </p>
-
 ---
 
 # 🔥 Featured Projects
 
 ### 🧠 AI Image Authenticity Detection
 AI-powered system to detect AI-generated images with confidence scores and metadata analysis.
-
-### 📰 Fake News Detection
-Machine learning model for detecting fake and real news articles.
 
 ### 🏋️ Gym Calorie Predictor
 Predicts calorie needs using machine learning.
@@ -73,7 +71,7 @@ Predicts calorie needs using machine learning.
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:rahulkoundal119@gmail.com">
+<a href="rahulkoundal119@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
