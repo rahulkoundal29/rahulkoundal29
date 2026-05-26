@@ -24,6 +24,19 @@
 
 ---
 
+---
+
+<h2 align="center">🚀 Current Project</h2>
+
+<p align="center">
+
+🧠 Building an <b>AI Image Authenticity Detection System</b><br>
+using Deep Learning, TensorFlow & Computer Vision.
+
+</p>
+
+---
+
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
@@ -68,7 +81,11 @@
 </a>
 
 <a href="mailto:rahulkoundal119@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/rahulkoundal._">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
