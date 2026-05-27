@@ -16,7 +16,7 @@
 🎓 Final Year B.Tech CSE Student <br>
 💻 Learning Python & Java through hands-on projects <br>
 🧠 Exploring AI/ML concepts while building real applications <br>
-🚀 Currently building an AI Image Authenticity Detection project <br>
+🚀 Currently building an AI Image Authenticity Detection system <br>
 🌱 Focused on improving problem solving & development skills
 
 </p>
