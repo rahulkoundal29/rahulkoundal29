@@ -36,7 +36,11 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkoundal29&theme=tokyonight" />
+  
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulkoundal29&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahulkoundal29&layout=compact&theme=radical&hide_border=true"/>
+
 </p>
 
 <h2 align="center">🔥 Featured Projects</h2>
